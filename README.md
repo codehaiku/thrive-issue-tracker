@@ -1,3 +1,6 @@
 <h1>
-Public issue tracker for Thrive WordPress Theme
+Thrive WordPress Theme Issue Tracker
 </h1>
+<p>
+All issues, bugs, and enhancements for Thrive WordPress Theme. 
+</p>
